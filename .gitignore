@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+
+# Generated scraper outputs
+sources/*.json
+sources/*.xlsx
+sources/*.csv
+
+# Legacy files
+sources/legacy/*
