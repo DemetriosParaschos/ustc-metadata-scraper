@@ -4,6 +4,7 @@
     "name": "USTC Metadata Scraper",
     "description": "Python application for automated retrieval, extraction, validation, and export of bibliographic metadata from the Universal Short Title Catalogue (USTC). Developed within the ERC-funded VERITRACE project to support the construction of a research database for a doctoral dissertation.",
     "version": "1.0.0",
+    "identifier": "https://doi.org/10.5281/zenodo.21242822",
     "license": "https://unlicense.org/",
     "codeRepository": "https://github.com/DemetriosParaschos/ustc-metadata-scraper",
     "programmingLanguage": {
@@ -43,18 +44,18 @@
     "dateModified": "2026-07-07",
     "keywords": [
       "digital humanities",
+      "research software",
       "bibliography",
       "book history",
       "USTC",
       "metadata",
-      "research software",
       "data acquisition",
       "data extraction",
       "Python",
       "reproducible research",
-      "VERITRACE",
       "early modern studies",
-      "history of science"
+      "history of science",
+      "VERITRACE"
     ],
     "applicationCategory": "Research",
     "audience": {
@@ -68,7 +69,13 @@
       "pandas",
       "openpyxl"
     ],
+    "softwareHelp": "https://github.com/DemetriosParaschos/ustc-metadata-scraper",
+    "issueTracker": "https://github.com/DemetriosParaschos/ustc-metadata-scraper/issues",
+    "releaseNotes": "https://github.com/DemetriosParaschos/ustc-metadata-scraper/releases/tag/v1.0.0",
+    "citation": "https://doi.org/10.5281/zenodo.21242822",
+    "relatedLink": [
+      "https://doi.org/10.5281/zenodo.21242822"
+    ],
     "isAccessibleForFree": true,
-    "developmentStatus": "active",
-    "citation": "See CITATION.cff for the preferred citation format."
+    "developmentStatus": "active"
   }

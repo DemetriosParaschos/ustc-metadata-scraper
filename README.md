@@ -1,5 +1,7 @@
 # USTC Metadata Scraper
 
+[![DOI: 10.5281/zenodo.21242822](https://zenodo.org/badge/DOI/10.5281/zenodo.21242822.svg)](https://doi.org/10.5281/zenodo.21242822)
+
 Python software for the automated acquisition, extraction, and structuring of bibliographic metadata from the Universal Short Title Catalogue (USTC).
 
 Developed as part of doctoral research to support the construction of an original research database of early printed books.
@@ -95,7 +97,13 @@ sources/                 Input and generated files
 
 ## Citation
 
-If this software contributes to your research, please cite the repository using the citation information provided in `CITATION.cff`.
+If this software contributes to your research, please cite it as:
+
+Paraschos, D. (2026). *USTC Metadata Scraper* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21242822
+
+
+For more information, vid. `CITATION.cff`.
+
 
 ---
 
