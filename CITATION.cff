@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "USTC Metadata Scraper"
+message: "If you use this software, please cite it using the metadata below."
+type: software
+
+authors:
+  - family-names: Paraschos
+    given-names: Demetrios
+    orcid: "https://orcid.org/0009-0004-6785-8033"
+
+abstract: >
+  Research software developed within the ERC Starting Grant project
+  VERITRACE (HORIZON ERC-2022-StG, Grant Agreement No. 101076836).
+  The software automates the acquisition, validation, and structuring
+  of bibliographic metadata from the Universal Short Title Catalogue
+  (USTC) and supports the construction of an original research database
+  for the author's doctoral dissertation.
+
+keywords:
+  - VERITRACE
+  - ERC
+  - Digital Humanities
+  - History of Science
+  - Bibliography
+  - Metadata
+  - USTC
+  - Research Software
+  - Python
+
+version: 1.0.0
+date-released: 2026-07-07
+
+repository-code: "https://github.com/DemetriosParaschos/ustc-metadata-scraper"
+
+license: "Unlicense"

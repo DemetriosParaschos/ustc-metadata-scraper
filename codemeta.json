@@ -1,0 +1,74 @@
+{
+    "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+    "@type": "SoftwareSourceCode",
+    "name": "USTC Metadata Scraper",
+    "description": "Python application for automated retrieval, extraction, validation, and export of bibliographic metadata from the Universal Short Title Catalogue (USTC). Developed within the ERC-funded VERITRACE project to support the construction of a research database for a doctoral dissertation.",
+    "version": "1.0.0",
+    "license": "https://unlicense.org/",
+    "codeRepository": "https://github.com/DemetriosParaschos/ustc-metadata-scraper",
+    "programmingLanguage": {
+      "@type": "ComputerLanguage",
+      "name": "Python",
+      "version": "3.11"
+    },
+    "runtimePlatform": "Python 3.11",
+    "operatingSystem": [
+      "Linux",
+      "macOS",
+      "Windows"
+    ],
+    "author": {
+      "@type": "Person",
+      "givenName": "Demetrios",
+      "familyName": "Paraschos",
+      "orcid": "https://orcid.org/0009-0004-6785-8033"
+    },
+    "maintainer": {
+      "@type": "Person",
+      "givenName": "Demetrios",
+      "familyName": "Paraschos",
+      "orcid": "https://orcid.org/0009-0004-6785-8033"
+    },
+    "producer": {
+      "@type": "Organization",
+      "name": "VERITRACE",
+      "description": "ERC Starting Grant project investigating the influence of ancient wisdom on early modern natural philosophy."
+    },
+    "funder": {
+      "@type": "Organization",
+      "name": "European Research Council"
+    },
+    "funding": "HORIZON ERC-2022-StG, Grant Agreement No. 101076836 (VERITRACE)",
+    "dateCreated": "2026-06-23",
+    "dateModified": "2026-07-07",
+    "keywords": [
+      "digital humanities",
+      "bibliography",
+      "book history",
+      "USTC",
+      "metadata",
+      "research software",
+      "data acquisition",
+      "data extraction",
+      "Python",
+      "reproducible research",
+      "VERITRACE",
+      "early modern studies",
+      "history of science"
+    ],
+    "applicationCategory": "Research",
+    "audience": {
+      "@type": "Audience",
+      "audienceType": "Researchers"
+    },
+    "softwareRequirements": [
+      "Python >=3.11",
+      "requests",
+      "beautifulsoup4",
+      "pandas",
+      "openpyxl"
+    ],
+    "isAccessibleForFree": true,
+    "developmentStatus": "active",
+    "citation": "See CITATION.cff for the preferred citation format."
+  }
